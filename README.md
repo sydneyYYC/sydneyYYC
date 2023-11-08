@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sydneyYYC
-- 👀 I’m interested in frontend and web dev
+- 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning Javascript, SQL and Svelte
 - 💞️ I’m looking to collaborate on basic beginner projects
 - 📫 How to reach me ...
