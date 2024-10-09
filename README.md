@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sydneyYYC
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning Python and SQL 
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning backend: Python and Django
+- 💞️ I’m looking to collaborate on fullstack applications
 - 📫 How to reach me ...
 
 <!---
